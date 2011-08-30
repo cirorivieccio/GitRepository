@@ -5,6 +5,7 @@ public class FirstClass {
 	private int intVar2;
 	private String stringVar1;
 	private String stringVar2;
+	private String stringVar3;
 
 	public int getIntVar1() {
 		return intVar1;
@@ -37,5 +38,15 @@ public class FirstClass {
 	public void setStringVar2(String stringVar2) {
 		this.stringVar2 = stringVar2;
 	}
+
+	public String getStringVar3() {
+		return stringVar3;
+	}
+
+	public void setStringVar3(String stringVar3) {
+		this.stringVar3 = stringVar3;
+	}
+	
+	
 
 }
