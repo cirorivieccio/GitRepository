@@ -1,4 +1,4 @@
-package git.test;
+package git.test2;
 
 public class SecondClass {
 	private String stringVar1;

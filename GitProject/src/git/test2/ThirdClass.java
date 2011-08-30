@@ -1,4 +1,4 @@
-package git.test;
+package git.test2;
 
 public class ThirdClass {
 	int varInt1;
