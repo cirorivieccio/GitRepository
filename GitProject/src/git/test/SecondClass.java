@@ -5,6 +5,7 @@ public class SecondClass {
 	private String stringVar2;
 	private int intVar1;
 	private int intVar2;
+	private int intVar3;
 
 	public String getStringVar1() {
 		return stringVar1;
@@ -36,6 +37,15 @@ public class SecondClass {
 
 	public void setIntVar2(int intVar2) {
 		this.intVar2 = intVar2;
+	}
+	
+
+	public int getIntVar3() {
+		return intVar3;
+	}
+
+	public void setIntVar3(int intVar3) {
+		this.intVar3 = intVar3;
 	}
 
 }

@@ -3,6 +3,8 @@ package git.test;
 public class FirstClass {
 	private int intVar1;
 	private int intVar2;
+	private String stringVar1;
+	private String stringVar2;
 
 	public int getIntVar1() {
 		return intVar1;
@@ -19,4 +21,21 @@ public class FirstClass {
 	public void setIntVar2(int intVar2) {
 		this.intVar2 = intVar2;
 	}
+
+	public String getStringVar1() {
+		return stringVar1;
+	}
+
+	public void setStringVar1(String stringVar1) {
+		this.stringVar1 = stringVar1;
+	}
+
+	public String getStringVar2() {
+		return stringVar2;
+	}
+
+	public void setStringVar2(String stringVar2) {
+		this.stringVar2 = stringVar2;
+	}
+
 }
